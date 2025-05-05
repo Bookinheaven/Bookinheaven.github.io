@@ -1,28 +1,55 @@
-## Marvel CTF Challenge
+## 🕸️ Marvel CTF Challenge
 
-Welcome to the **Marvel CTF** – a cybersecurity challenge series themed around the Marvel Universe! Each level features a unique Marvel character or storyline, combined with creative puzzles across web, cryptography, steganography, metadata, and file analysis.
+Welcome to the **Marvel CTF** – a cybersecurity challenge series I created for **Mindkraft '25**, the national-level technical symposium hosted by **Karunya University**. This event is designed to test participants’ practical hacking and problem-solving skills through fun, story-driven Capture The Flag (CTF) puzzles inspired by the **Marvel Universe**.
 
-### 📂 Difficulty Levels & Challenge Types
+Each challenge blends real-world cybersecurity concepts with iconic Marvel characters, locations, and lore – turning digital forensics, cryptography, steganography, and more into immersive mini-missions.
 
-* **Easy:** Basic web inspection, encoding/decoding, visual and source code clues.
-* **Medium:** Steganography, metadata forensics, multi-layer encoding.
-* **Hard:** Reverse engineering, layered decryption, and advanced forensic analysis.
+---
 
-### 📘 Marvel.docx
+### 🧠 About the CTF
 
-All challenge answers, hints and storylines are included in the `Marvel.docx` file.
+- 🛠️ **Designed by:** *\[Your Name or Alias]*
+- 🏛️ **Event:** *Mindkraft '25 @ Karunya University*
+- 🗓️ **Mode:** Online & On-site (depending on round structure)
+- 🎮 **Audience:** Beginners to Intermediate cybersecurity enthusiasts
+- 📁 **Files & Hints:** All essential information is included in `Marvel.docx`
 
-* Challenge descriptions
-* Tools and websites to use
-* Hints and encoding types
-* Expected flags
+---
 
-### 🏁 Format
+### 🎯 Objective
 
-Each flag is in the format:
-`{MC_CTF:Your_Flag_Here}`
+Your mission is to uncover hidden flags by investigating Marvel-themed scenarios across 21 carefully crafted challenges. The flags represent secrets or vulnerabilities left behind by superheroes, villains, or intelligence agencies like S.H.I.E.L.D. or HYDRA.
 
-### 🔗 Challenges
+> Each flag follows the format:
+> `**{MC_CTF:Your_Flag_Here}**`
+
+---
+
+### 🔍 Challenge Categories
+
+| Difficulty | Challenge Type                                                                |
+| ---------- | ----------------------------------------------------------------------------- |
+| **Easy**   | Basic web inspection, HTML comments, base64, URL encoding, hidden messages    |
+| **Medium** | Steganography, metadata analysis, Caesar/Bacon cipher, multi-layered encoding |
+| **Hard**   | Reverse engineering, XOR encryption, zip bomb logic, polyglot payloads        |
+
+---
+
+### 📘 `Marvel.docx` Contents
+
+This companion file contains:
+
+* 🔑 **Challenge backstories**
+* 🛠️ **Tools & websites** to assist
+* 💡 **Hints & nudge directions**
+* 🧾 **Expected flag formats**
+* 🚨 *Potential red herrings to test your attention to detail*
+
+---
+
+### 🔗 Access the Challenges
+
+Each challenge is hosted as a separate page on GitHub Pages. Start from the beginning or jump to any stage:
 
 * [0\_Marvel\_CTF](https://bookinheaven.github.io/0_Marvel_CTF/)
 * [1\_Portal Hunt](https://bookinheaven.github.io/1_Portal%20Hunt/)
