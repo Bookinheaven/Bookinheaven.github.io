@@ -8,9 +8,9 @@ Each challenge blends real-world cybersecurity concepts with iconic Marvel chara
 
 ### 🧠 About the CTF
 
-- 🛠️ **Designed by:** *\[Your Name or Alias]*
+- 🛠️ **Designed by:** *Bookinheaven*
 - 🏛️ **Event:** *Mindkraft '25 @ Karunya University*
-- 🗓️ **Mode:** Online & On-site (depending on round structure)
+- 🗓️ **Mode:** On-site 
 - 🎮 **Audience:** Beginners to Intermediate cybersecurity enthusiasts
 - 📁 **Files & Hints:** All essential information is included in `Marvel.docx`
 
